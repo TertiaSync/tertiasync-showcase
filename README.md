@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="screenshots/TertiaSync_logo_v2.png"
@@ -109,8 +108,8 @@ TertiaSync aims to bring these experiences together into one accessible academic
 
 Software Developer · Computer Engineering Student · Founder of TertiaSync
 
-- **Portfolio:** [davidgodspowerajala.me](https://davidgodspowerajala.me/)
-- **GitHub:** [david-godspower](https://github.com/david-godspower)
+- **Portfolio:** [David Godspower Ajala (D.G.A.)](https://davidgodspowerajala.me/)
+- **GitHub:** [David Godspower Ajala](https://github.com/david-godspower)
 - **LinkedIn:** [David Godspower Ajala](https://www.linkedin.com/in/david-godspower-ajala/)
 
 ---
