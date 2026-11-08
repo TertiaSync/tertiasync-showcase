@@ -63,13 +63,18 @@ Explore the platform's interface and core experiences.
 
 ## Core Features
 
-TertiaSync brings together academic tools and resources designed to support students throughout their academic journey.
+TertiaSync brings essential academic tools and resources together in one connected workspace.
 
-- **Past Question Archive** — Access academic resources that support revision and exam preparation.
-- **CGPA Tracking** — Calculate and monitor academic performance.
-- **Study Planner** — Organize study activities and academic preparation.
+- **Past Questions Archive** — Explore academic materials organized around relevant academic categories.
+- **GPA & CGPA Tools** — Calculate and monitor academic performance.
+- **Academic Schedule** — Organize timetables and important academic activities.
+- **Study Planner** — Plan study activities and stay organized throughout the semester.
+- **Exam Countdown** — Keep upcoming examinations in view.
+- **Academic Announcements** — Stay informed through relevant academic updates.
 - **Community Contributions** — Contribute academic resources to support other students.
-- **Progressive Web App** — Experience TertiaSync through an installable, app-like web experience.
+- **Academic Representative Tools** — Enable authorized student representatives to share relevant academic announcements.
+- **Progressive Web App (PWA)** — Access an installable, app-like web experience.
+
 
 ## Technology Stack
 
